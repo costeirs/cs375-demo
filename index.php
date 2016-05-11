@@ -4,6 +4,6 @@
 <?php
 echo date("Y");
 ?>
-<pre>
+<!--<pre>
 <?php var_dump($_SERVER); ?>
-</pre>
+</pre>-->
