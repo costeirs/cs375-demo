@@ -1,5 +1,5 @@
 
-Hello CSCI 370 Students! 
+Hello CSCI 370 Teachers! 
 
 <?php
 echo date("Y");
