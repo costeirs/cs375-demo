@@ -5,5 +5,5 @@
 echo date("Y");
 ?>
 <pre>
-<? var_dump($_SERVER); ?>
+<?php var_dump($_SERVER); ?>
 </pre>
